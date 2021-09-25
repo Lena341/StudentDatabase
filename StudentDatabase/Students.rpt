@@ -1,0 +1,15 @@
+﻿Name                                               LastName                                           Semester    Direction
+-------------------------------------------------- -------------------------------------------------- ----------- --------------------------------------------------
+Keith                                              Adams                                              4           No direction
+James                                              Brown                                              2           No direction
+Katherine                                          Davis                                              5           No direction
+Mary                                               Johnson                                            6           Software Engineering
+Kate                                               Jones                                              7           Computer Engineering
+Thomas                                             Miller                                             3           No direction
+John                                               Smith                                              1           No direction
+Max                                                Williams                                           6           Network Engineering
+
+(8 rows affected)
+
+
+
