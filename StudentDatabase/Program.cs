@@ -11,7 +11,7 @@ namespace StudentDatabase
             try
             {
                 //Here we try to create a connection to the DB. The connection will be of type Windows Authentication
-                connection.ConnectionString = "Integrated Security=true;Initial Catalog=StudentDB;Data Source=LAPTOP-B566P0U1\\SQLExpress";
+                connection.ConnectionString = "Integrated Security=true;Initial Catalog=StudentDB;Data Source=server\\SQLExpress";
                 connection.Open();
                 Console.Write("Please enter a Last Name: ");
                 string studentLastName = Console.ReadLine(); //The student's last name will be saved in this string
