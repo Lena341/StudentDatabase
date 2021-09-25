@@ -9,7 +9,6 @@ Thomas                                             Miller                       
 John                                               Smith                                              1           No direction
 Max                                                Williams                                           6           Network Engineering
 
-(8 rows affected)
 
 
 
